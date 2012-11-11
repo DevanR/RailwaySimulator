@@ -1,0 +1,68 @@
+Notes.txt
+
+
+
+Configuration File
+
+[simulation]
+- no. of days = 365
+- no. of hours a day = 18
+- duration of handover = 60s
+- passenger distribution - normal
+- range of CNs = 1-20
+
+[stations]
+- no. of stations = 27
+
+[trains]
+- no. of trains per hour = 7
+
+[passengers]
+- no. on weekday = 218136
+- no. on saturday = 136702
+- no. on sunday = 104876
+no. annually = 68485 million
+
+
+
+
+Java Classes
+
+[Train-Class]
+
+- train_id
+- next_stop
+- passenger_no
+
+
+[Passenger-Class]
+
+- passenger_id
+- hour_travelled
+- day_travelled
+- station_boarded
+- station_alighted
+- hop_count
+
+[Station-Class]
+
+- station_id
+- no_of boarding_passengers
+
+
+
+
+
+Log File Structure
+
+[train] -> weekXX__dayX__hourXX__trainX
+
+station_id		total_boarded		total_alighted		total_remain		TOTAL
+
+
+[passenger] -> weekXX__dayX__hourXX__trainX
+
+station_id		ids_of_passenger_board		ids_of_alighting_passengers
+
+
+

@@ -1,0 +1,730 @@
+Starting Simulation --> Time:26 14:28:51
+Simulation still in Progress --> Week:0 Day:0
+Starting Simulation --> Time:26 14:28:58
+Simulation still in Progress --> Week:0 Day:1
+Starting Simulation --> Time:26 14:29:05
+Simulation still in Progress --> Week:0 Day:2
+Starting Simulation --> Time:26 14:29:11
+Simulation still in Progress --> Week:0 Day:3
+Starting Simulation --> Time:26 14:29:17
+Simulation still in Progress --> Week:0 Day:4
+Starting Simulation --> Time:26 14:29:23
+Simulation still in Progress --> Week:0 Day:5
+Starting Simulation --> Time:26 14:29:27
+Simulation still in Progress --> Week:0 Day:6
+Starting Simulation --> Time:26 14:29:30
+Simulation still in Progress --> Week:1 Day:0
+Starting Simulation --> Time:26 14:29:36
+Simulation still in Progress --> Week:1 Day:1
+Starting Simulation --> Time:26 14:29:42
+Simulation still in Progress --> Week:1 Day:2
+Starting Simulation --> Time:26 14:29:48
+Simulation still in Progress --> Week:1 Day:3
+Starting Simulation --> Time:26 14:29:54
+Simulation still in Progress --> Week:1 Day:4
+Starting Simulation --> Time:26 14:30:00
+Simulation still in Progress --> Week:1 Day:5
+Starting Simulation --> Time:26 14:30:04
+Simulation still in Progress --> Week:1 Day:6
+Starting Simulation --> Time:26 14:30:07
+Simulation still in Progress --> Week:2 Day:0
+Starting Simulation --> Time:26 14:30:13
+Simulation still in Progress --> Week:2 Day:1
+Starting Simulation --> Time:26 14:30:18
+Simulation still in Progress --> Week:2 Day:2
+Starting Simulation --> Time:26 14:30:24
+Simulation still in Progress --> Week:2 Day:3
+Starting Simulation --> Time:26 14:30:31
+Simulation still in Progress --> Week:2 Day:4
+Starting Simulation --> Time:26 14:30:37
+Simulation still in Progress --> Week:2 Day:5
+Starting Simulation --> Time:26 14:30:40
+Simulation still in Progress --> Week:2 Day:6
+Starting Simulation --> Time:26 14:30:44
+Simulation still in Progress --> Week:3 Day:0
+Starting Simulation --> Time:26 14:30:49
+Simulation still in Progress --> Week:3 Day:1
+Starting Simulation --> Time:26 14:30:56
+Simulation still in Progress --> Week:3 Day:2
+Starting Simulation --> Time:26 14:31:02
+Simulation still in Progress --> Week:3 Day:3
+Starting Simulation --> Time:26 14:31:08
+Simulation still in Progress --> Week:3 Day:4
+Starting Simulation --> Time:26 14:31:14
+Simulation still in Progress --> Week:3 Day:5
+Starting Simulation --> Time:26 14:31:17
+Simulation still in Progress --> Week:3 Day:6
+Starting Simulation --> Time:26 14:31:20
+Simulation still in Progress --> Week:4 Day:0
+Starting Simulation --> Time:26 14:31:26
+Simulation still in Progress --> Week:4 Day:1
+Starting Simulation --> Time:26 14:31:32
+Simulation still in Progress --> Week:4 Day:2
+Starting Simulation --> Time:26 14:31:38
+Simulation still in Progress --> Week:4 Day:3
+Starting Simulation --> Time:26 14:31:44
+Simulation still in Progress --> Week:4 Day:4
+Starting Simulation --> Time:26 14:31:50
+Simulation still in Progress --> Week:4 Day:5
+Starting Simulation --> Time:26 14:31:54
+Simulation still in Progress --> Week:4 Day:6
+Starting Simulation --> Time:26 14:31:57
+Simulation still in Progress --> Week:5 Day:0
+Starting Simulation --> Time:26 14:32:03
+Simulation still in Progress --> Week:5 Day:1
+Starting Simulation --> Time:26 14:32:09
+Simulation still in Progress --> Week:5 Day:2
+Starting Simulation --> Time:26 14:32:14
+Simulation still in Progress --> Week:5 Day:3
+Starting Simulation --> Time:26 14:32:20
+Simulation still in Progress --> Week:5 Day:4
+Starting Simulation --> Time:26 14:32:26
+Simulation still in Progress --> Week:5 Day:5
+Starting Simulation --> Time:26 14:32:30
+Simulation still in Progress --> Week:5 Day:6
+Starting Simulation --> Time:26 14:32:33
+Simulation still in Progress --> Week:6 Day:0
+Starting Simulation --> Time:26 14:32:39
+Simulation still in Progress --> Week:6 Day:1
+Starting Simulation --> Time:26 14:32:45
+Simulation still in Progress --> Week:6 Day:2
+Starting Simulation --> Time:26 14:32:51
+Simulation still in Progress --> Week:6 Day:3
+Starting Simulation --> Time:26 14:32:57
+Simulation still in Progress --> Week:6 Day:4
+Starting Simulation --> Time:26 14:33:03
+Simulation still in Progress --> Week:6 Day:5
+Starting Simulation --> Time:26 14:33:07
+Simulation still in Progress --> Week:6 Day:6
+Starting Simulation --> Time:26 14:33:10
+Simulation still in Progress --> Week:7 Day:0
+Starting Simulation --> Time:26 14:33:16
+Simulation still in Progress --> Week:7 Day:1
+Starting Simulation --> Time:26 14:33:22
+Simulation still in Progress --> Week:7 Day:2
+Starting Simulation --> Time:26 14:33:28
+Simulation still in Progress --> Week:7 Day:3
+Starting Simulation --> Time:26 14:33:34
+Simulation still in Progress --> Week:7 Day:4
+Starting Simulation --> Time:26 14:33:40
+Simulation still in Progress --> Week:7 Day:5
+Starting Simulation --> Time:26 14:33:44
+Simulation still in Progress --> Week:7 Day:6
+Starting Simulation --> Time:26 14:33:47
+Simulation still in Progress --> Week:8 Day:0
+Starting Simulation --> Time:26 14:33:53
+Simulation still in Progress --> Week:8 Day:1
+Starting Simulation --> Time:26 14:33:59
+Simulation still in Progress --> Week:8 Day:2
+Starting Simulation --> Time:26 14:34:05
+Simulation still in Progress --> Week:8 Day:3
+Starting Simulation --> Time:26 14:34:12
+Simulation still in Progress --> Week:8 Day:4
+Starting Simulation --> Time:26 14:34:18
+Simulation still in Progress --> Week:8 Day:5
+Starting Simulation --> Time:26 14:34:22
+Simulation still in Progress --> Week:8 Day:6
+Starting Simulation --> Time:26 14:34:25
+Simulation still in Progress --> Week:9 Day:0
+Starting Simulation --> Time:26 14:34:31
+Simulation still in Progress --> Week:9 Day:1
+Starting Simulation --> Time:26 14:34:37
+Simulation still in Progress --> Week:9 Day:2
+Starting Simulation --> Time:26 14:34:43
+Simulation still in Progress --> Week:9 Day:3
+Starting Simulation --> Time:26 14:34:49
+Simulation still in Progress --> Week:9 Day:4
+Starting Simulation --> Time:26 14:34:55
+Simulation still in Progress --> Week:9 Day:5
+Starting Simulation --> Time:26 14:34:59
+Simulation still in Progress --> Week:9 Day:6
+Starting Simulation --> Time:26 14:35:02
+Simulation still in Progress --> Week:10 Day:0
+Starting Simulation --> Time:26 14:35:08
+Simulation still in Progress --> Week:10 Day:1
+Starting Simulation --> Time:26 14:35:14
+Simulation still in Progress --> Week:10 Day:2
+Starting Simulation --> Time:26 14:35:20
+Simulation still in Progress --> Week:10 Day:3
+Starting Simulation --> Time:26 14:35:26
+Simulation still in Progress --> Week:10 Day:4
+Starting Simulation --> Time:26 14:35:33
+Simulation still in Progress --> Week:10 Day:5
+Starting Simulation --> Time:26 14:35:36
+Simulation still in Progress --> Week:10 Day:6
+Starting Simulation --> Time:26 14:35:39
+Simulation still in Progress --> Week:11 Day:0
+Starting Simulation --> Time:26 14:35:45
+Simulation still in Progress --> Week:11 Day:1
+Starting Simulation --> Time:26 14:35:52
+Simulation still in Progress --> Week:11 Day:2
+Starting Simulation --> Time:26 14:35:58
+Simulation still in Progress --> Week:11 Day:3
+Starting Simulation --> Time:26 14:36:04
+Simulation still in Progress --> Week:11 Day:4
+Starting Simulation --> Time:26 14:36:10
+Simulation still in Progress --> Week:11 Day:5
+Starting Simulation --> Time:26 14:36:14
+Simulation still in Progress --> Week:11 Day:6
+Starting Simulation --> Time:26 14:36:17
+Simulation still in Progress --> Week:12 Day:0
+Starting Simulation --> Time:26 14:36:23
+Simulation still in Progress --> Week:12 Day:1
+Starting Simulation --> Time:26 14:36:29
+Simulation still in Progress --> Week:12 Day:2
+Starting Simulation --> Time:26 14:36:35
+Simulation still in Progress --> Week:12 Day:3
+Starting Simulation --> Time:26 14:36:42
+Simulation still in Progress --> Week:12 Day:4
+Starting Simulation --> Time:26 14:36:48
+Simulation still in Progress --> Week:12 Day:5
+Starting Simulation --> Time:26 14:36:52
+Simulation still in Progress --> Week:12 Day:6
+Starting Simulation --> Time:26 14:36:54
+Simulation still in Progress --> Week:13 Day:0
+Starting Simulation --> Time:26 14:37:01
+Simulation still in Progress --> Week:13 Day:1
+Starting Simulation --> Time:26 14:37:07
+Simulation still in Progress --> Week:13 Day:2
+Starting Simulation --> Time:26 14:37:13
+Simulation still in Progress --> Week:13 Day:3
+Starting Simulation --> Time:26 14:37:19
+Simulation still in Progress --> Week:13 Day:4
+Starting Simulation --> Time:26 14:37:25
+Simulation still in Progress --> Week:13 Day:5
+Starting Simulation --> Time:26 14:37:28
+Simulation still in Progress --> Week:13 Day:6
+Starting Simulation --> Time:26 14:37:31
+Simulation still in Progress --> Week:14 Day:0
+Starting Simulation --> Time:26 14:37:37
+Simulation still in Progress --> Week:14 Day:1
+Starting Simulation --> Time:26 14:37:44
+Simulation still in Progress --> Week:14 Day:2
+Starting Simulation --> Time:26 14:37:49
+Simulation still in Progress --> Week:14 Day:3
+Starting Simulation --> Time:26 14:37:56
+Simulation still in Progress --> Week:14 Day:4
+Starting Simulation --> Time:26 14:38:02
+Simulation still in Progress --> Week:14 Day:5
+Starting Simulation --> Time:26 14:38:05
+Simulation still in Progress --> Week:14 Day:6
+Starting Simulation --> Time:26 14:38:08
+Simulation still in Progress --> Week:15 Day:0
+Starting Simulation --> Time:26 14:38:14
+Simulation still in Progress --> Week:15 Day:1
+Starting Simulation --> Time:26 14:38:20
+Simulation still in Progress --> Week:15 Day:2
+Starting Simulation --> Time:26 14:38:26
+Simulation still in Progress --> Week:15 Day:3
+Starting Simulation --> Time:26 14:38:32
+Simulation still in Progress --> Week:15 Day:4
+Starting Simulation --> Time:26 14:38:38
+Simulation still in Progress --> Week:15 Day:5
+Starting Simulation --> Time:26 14:38:42
+Simulation still in Progress --> Week:15 Day:6
+Starting Simulation --> Time:26 14:38:44
+Simulation still in Progress --> Week:16 Day:0
+Starting Simulation --> Time:26 14:38:51
+Simulation still in Progress --> Week:16 Day:1
+Starting Simulation --> Time:26 14:38:57
+Simulation still in Progress --> Week:16 Day:2
+Starting Simulation --> Time:26 14:39:03
+Simulation still in Progress --> Week:16 Day:3
+Starting Simulation --> Time:26 14:39:09
+Simulation still in Progress --> Week:16 Day:4
+Starting Simulation --> Time:26 14:39:15
+Simulation still in Progress --> Week:16 Day:5
+Starting Simulation --> Time:26 14:39:19
+Simulation still in Progress --> Week:16 Day:6
+Starting Simulation --> Time:26 14:39:22
+Simulation still in Progress --> Week:17 Day:0
+Starting Simulation --> Time:26 14:39:28
+Simulation still in Progress --> Week:17 Day:1
+Starting Simulation --> Time:26 14:39:34
+Simulation still in Progress --> Week:17 Day:2
+Starting Simulation --> Time:26 14:39:40
+Simulation still in Progress --> Week:17 Day:3
+Starting Simulation --> Time:26 14:39:46
+Simulation still in Progress --> Week:17 Day:4
+Starting Simulation --> Time:26 14:39:52
+Simulation still in Progress --> Week:17 Day:5
+Starting Simulation --> Time:26 14:39:56
+Simulation still in Progress --> Week:17 Day:6
+Starting Simulation --> Time:26 14:39:59
+Simulation still in Progress --> Week:18 Day:0
+Starting Simulation --> Time:26 14:40:05
+Simulation still in Progress --> Week:18 Day:1
+Starting Simulation --> Time:26 14:40:10
+Simulation still in Progress --> Week:18 Day:2
+Starting Simulation --> Time:26 14:40:17
+Simulation still in Progress --> Week:18 Day:3
+Starting Simulation --> Time:26 14:40:22
+Simulation still in Progress --> Week:18 Day:4
+Starting Simulation --> Time:26 14:40:28
+Simulation still in Progress --> Week:18 Day:5
+Starting Simulation --> Time:26 14:40:32
+Simulation still in Progress --> Week:18 Day:6
+Starting Simulation --> Time:26 14:40:35
+Simulation still in Progress --> Week:19 Day:0
+Starting Simulation --> Time:26 14:40:41
+Simulation still in Progress --> Week:19 Day:1
+Starting Simulation --> Time:26 14:40:47
+Simulation still in Progress --> Week:19 Day:2
+Starting Simulation --> Time:26 14:40:53
+Simulation still in Progress --> Week:19 Day:3
+Starting Simulation --> Time:26 14:40:59
+Simulation still in Progress --> Week:19 Day:4
+Starting Simulation --> Time:26 14:41:05
+Simulation still in Progress --> Week:19 Day:5
+Starting Simulation --> Time:26 14:41:09
+Simulation still in Progress --> Week:19 Day:6
+Starting Simulation --> Time:26 14:41:12
+Simulation still in Progress --> Week:20 Day:0
+Starting Simulation --> Time:26 14:41:18
+Simulation still in Progress --> Week:20 Day:1
+Starting Simulation --> Time:26 14:41:24
+Simulation still in Progress --> Week:20 Day:2
+Starting Simulation --> Time:26 14:41:30
+Simulation still in Progress --> Week:20 Day:3
+Starting Simulation --> Time:26 14:41:36
+Simulation still in Progress --> Week:20 Day:4
+Starting Simulation --> Time:26 14:41:42
+Simulation still in Progress --> Week:20 Day:5
+Starting Simulation --> Time:26 14:41:46
+Simulation still in Progress --> Week:20 Day:6
+Starting Simulation --> Time:26 14:41:49
+Simulation still in Progress --> Week:21 Day:0
+Starting Simulation --> Time:26 14:41:55
+Simulation still in Progress --> Week:21 Day:1
+Starting Simulation --> Time:26 14:42:01
+Simulation still in Progress --> Week:21 Day:2
+Starting Simulation --> Time:26 14:42:07
+Simulation still in Progress --> Week:21 Day:3
+Starting Simulation --> Time:26 14:42:13
+Simulation still in Progress --> Week:21 Day:4
+Starting Simulation --> Time:26 14:42:19
+Simulation still in Progress --> Week:21 Day:5
+Starting Simulation --> Time:26 14:42:22
+Simulation still in Progress --> Week:21 Day:6
+Starting Simulation --> Time:26 14:42:25
+Simulation still in Progress --> Week:22 Day:0
+Starting Simulation --> Time:26 14:42:31
+Simulation still in Progress --> Week:22 Day:1
+Starting Simulation --> Time:26 14:42:37
+Simulation still in Progress --> Week:22 Day:2
+Starting Simulation --> Time:26 14:42:43
+Simulation still in Progress --> Week:22 Day:3
+Starting Simulation --> Time:26 14:42:50
+Simulation still in Progress --> Week:22 Day:4
+Starting Simulation --> Time:26 14:42:55
+Simulation still in Progress --> Week:22 Day:5
+Starting Simulation --> Time:26 14:42:59
+Simulation still in Progress --> Week:22 Day:6
+Starting Simulation --> Time:26 14:43:02
+Simulation still in Progress --> Week:23 Day:0
+Starting Simulation --> Time:26 14:43:08
+Simulation still in Progress --> Week:23 Day:1
+Starting Simulation --> Time:26 14:43:14
+Simulation still in Progress --> Week:23 Day:2
+Starting Simulation --> Time:26 14:43:20
+Simulation still in Progress --> Week:23 Day:3
+Starting Simulation --> Time:26 14:43:26
+Simulation still in Progress --> Week:23 Day:4
+Starting Simulation --> Time:26 14:43:32
+Simulation still in Progress --> Week:23 Day:5
+Starting Simulation --> Time:26 14:43:36
+Simulation still in Progress --> Week:23 Day:6
+Starting Simulation --> Time:26 14:43:39
+Simulation still in Progress --> Week:24 Day:0
+Starting Simulation --> Time:26 14:43:45
+Simulation still in Progress --> Week:24 Day:1
+Starting Simulation --> Time:26 14:43:51
+Simulation still in Progress --> Week:24 Day:2
+Starting Simulation --> Time:26 14:43:57
+Simulation still in Progress --> Week:24 Day:3
+Starting Simulation --> Time:26 14:44:03
+Simulation still in Progress --> Week:24 Day:4
+Starting Simulation --> Time:26 14:44:09
+Simulation still in Progress --> Week:24 Day:5
+Starting Simulation --> Time:26 14:44:13
+Simulation still in Progress --> Week:24 Day:6
+Starting Simulation --> Time:26 14:44:16
+Simulation still in Progress --> Week:25 Day:0
+Starting Simulation --> Time:26 14:44:22
+Simulation still in Progress --> Week:25 Day:1
+Starting Simulation --> Time:26 14:44:28
+Simulation still in Progress --> Week:25 Day:2
+Starting Simulation --> Time:26 14:44:34
+Simulation still in Progress --> Week:25 Day:3
+Starting Simulation --> Time:26 14:44:40
+Simulation still in Progress --> Week:25 Day:4
+Starting Simulation --> Time:26 14:44:47
+Simulation still in Progress --> Week:25 Day:5
+Starting Simulation --> Time:26 14:44:50
+Simulation still in Progress --> Week:25 Day:6
+Starting Simulation --> Time:26 14:44:53
+Simulation still in Progress --> Week:26 Day:0
+Starting Simulation --> Time:26 14:44:59
+Simulation still in Progress --> Week:26 Day:1
+Starting Simulation --> Time:26 14:45:05
+Simulation still in Progress --> Week:26 Day:2
+Starting Simulation --> Time:26 14:45:12
+Simulation still in Progress --> Week:26 Day:3
+Starting Simulation --> Time:26 14:45:18
+Simulation still in Progress --> Week:26 Day:4
+Starting Simulation --> Time:26 14:45:24
+Simulation still in Progress --> Week:26 Day:5
+Starting Simulation --> Time:26 14:45:28
+Simulation still in Progress --> Week:26 Day:6
+Starting Simulation --> Time:26 14:45:30
+Simulation still in Progress --> Week:27 Day:0
+Starting Simulation --> Time:26 14:45:37
+Simulation still in Progress --> Week:27 Day:1
+Starting Simulation --> Time:26 14:45:43
+Simulation still in Progress --> Week:27 Day:2
+Starting Simulation --> Time:26 14:45:49
+Simulation still in Progress --> Week:27 Day:3
+Starting Simulation --> Time:26 14:45:55
+Simulation still in Progress --> Week:27 Day:4
+Starting Simulation --> Time:26 14:46:01
+Simulation still in Progress --> Week:27 Day:5
+Starting Simulation --> Time:26 14:46:05
+Simulation still in Progress --> Week:27 Day:6
+Starting Simulation --> Time:26 14:46:08
+Simulation still in Progress --> Week:28 Day:0
+Starting Simulation --> Time:26 14:46:14
+Simulation still in Progress --> Week:28 Day:1
+Starting Simulation --> Time:26 14:46:20
+Simulation still in Progress --> Week:28 Day:2
+Starting Simulation --> Time:26 14:46:26
+Simulation still in Progress --> Week:28 Day:3
+Starting Simulation --> Time:26 14:46:32
+Simulation still in Progress --> Week:28 Day:4
+Starting Simulation --> Time:26 14:46:38
+Simulation still in Progress --> Week:28 Day:5
+Starting Simulation --> Time:26 14:46:42
+Simulation still in Progress --> Week:28 Day:6
+Starting Simulation --> Time:26 14:46:44
+Simulation still in Progress --> Week:29 Day:0
+Starting Simulation --> Time:26 14:46:50
+Simulation still in Progress --> Week:29 Day:1
+Starting Simulation --> Time:26 14:46:57
+Simulation still in Progress --> Week:29 Day:2
+Starting Simulation --> Time:26 14:47:03
+Simulation still in Progress --> Week:29 Day:3
+Starting Simulation --> Time:26 14:47:08
+Simulation still in Progress --> Week:29 Day:4
+Starting Simulation --> Time:26 14:47:14
+Simulation still in Progress --> Week:29 Day:5
+Starting Simulation --> Time:26 14:47:18
+Simulation still in Progress --> Week:29 Day:6
+Starting Simulation --> Time:26 14:47:21
+Simulation still in Progress --> Week:30 Day:0
+Starting Simulation --> Time:26 14:47:27
+Simulation still in Progress --> Week:30 Day:1
+Starting Simulation --> Time:26 14:47:33
+Simulation still in Progress --> Week:30 Day:2
+Starting Simulation --> Time:26 14:47:39
+Simulation still in Progress --> Week:30 Day:3
+Starting Simulation --> Time:26 14:47:45
+Simulation still in Progress --> Week:30 Day:4
+Starting Simulation --> Time:26 14:47:51
+Simulation still in Progress --> Week:30 Day:5
+Starting Simulation --> Time:26 14:47:55
+Simulation still in Progress --> Week:30 Day:6
+Starting Simulation --> Time:26 14:47:58
+Simulation still in Progress --> Week:31 Day:0
+Starting Simulation --> Time:26 14:48:04
+Simulation still in Progress --> Week:31 Day:1
+Starting Simulation --> Time:26 14:48:10
+Simulation still in Progress --> Week:31 Day:2
+Starting Simulation --> Time:26 14:48:16
+Simulation still in Progress --> Week:31 Day:3
+Starting Simulation --> Time:26 14:48:22
+Simulation still in Progress --> Week:31 Day:4
+Starting Simulation --> Time:26 14:48:28
+Simulation still in Progress --> Week:31 Day:5
+Starting Simulation --> Time:26 14:48:32
+Simulation still in Progress --> Week:31 Day:6
+Starting Simulation --> Time:26 14:48:35
+Simulation still in Progress --> Week:32 Day:0
+Starting Simulation --> Time:26 14:48:41
+Simulation still in Progress --> Week:32 Day:1
+Starting Simulation --> Time:26 14:48:47
+Simulation still in Progress --> Week:32 Day:2
+Starting Simulation --> Time:26 14:48:53
+Simulation still in Progress --> Week:32 Day:3
+Starting Simulation --> Time:26 14:48:59
+Simulation still in Progress --> Week:32 Day:4
+Starting Simulation --> Time:26 14:49:06
+Simulation still in Progress --> Week:32 Day:5
+Starting Simulation --> Time:26 14:49:10
+Simulation still in Progress --> Week:32 Day:6
+Starting Simulation --> Time:26 14:49:13
+Simulation still in Progress --> Week:33 Day:0
+Starting Simulation --> Time:26 14:49:19
+Simulation still in Progress --> Week:33 Day:1
+Starting Simulation --> Time:26 14:49:25
+Simulation still in Progress --> Week:33 Day:2
+Starting Simulation --> Time:26 14:49:31
+Simulation still in Progress --> Week:33 Day:3
+Starting Simulation --> Time:26 14:49:37
+Simulation still in Progress --> Week:33 Day:4
+Starting Simulation --> Time:26 14:49:43
+Simulation still in Progress --> Week:33 Day:5
+Starting Simulation --> Time:26 14:49:47
+Simulation still in Progress --> Week:33 Day:6
+Starting Simulation --> Time:26 14:49:49
+Simulation still in Progress --> Week:34 Day:0
+Starting Simulation --> Time:26 14:49:55
+Simulation still in Progress --> Week:34 Day:1
+Starting Simulation --> Time:26 14:50:02
+Simulation still in Progress --> Week:34 Day:2
+Starting Simulation --> Time:26 14:50:08
+Simulation still in Progress --> Week:34 Day:3
+Starting Simulation --> Time:26 14:50:13
+Simulation still in Progress --> Week:34 Day:4
+Starting Simulation --> Time:26 14:50:19
+Simulation still in Progress --> Week:34 Day:5
+Starting Simulation --> Time:26 14:50:23
+Simulation still in Progress --> Week:34 Day:6
+Starting Simulation --> Time:26 14:50:26
+Simulation still in Progress --> Week:35 Day:0
+Starting Simulation --> Time:26 14:50:32
+Simulation still in Progress --> Week:35 Day:1
+Starting Simulation --> Time:26 14:50:38
+Simulation still in Progress --> Week:35 Day:2
+Starting Simulation --> Time:26 14:50:44
+Simulation still in Progress --> Week:35 Day:3
+Starting Simulation --> Time:26 14:50:49
+Simulation still in Progress --> Week:35 Day:4
+Starting Simulation --> Time:26 14:50:55
+Simulation still in Progress --> Week:35 Day:5
+Starting Simulation --> Time:26 14:50:59
+Simulation still in Progress --> Week:35 Day:6
+Starting Simulation --> Time:26 14:51:02
+Simulation still in Progress --> Week:36 Day:0
+Starting Simulation --> Time:26 14:51:08
+Simulation still in Progress --> Week:36 Day:1
+Starting Simulation --> Time:26 14:51:14
+Simulation still in Progress --> Week:36 Day:2
+Starting Simulation --> Time:26 14:51:20
+Simulation still in Progress --> Week:36 Day:3
+Starting Simulation --> Time:26 14:51:26
+Simulation still in Progress --> Week:36 Day:4
+Starting Simulation --> Time:26 14:51:32
+Simulation still in Progress --> Week:36 Day:5
+Starting Simulation --> Time:26 14:51:36
+Simulation still in Progress --> Week:36 Day:6
+Starting Simulation --> Time:26 14:51:39
+Simulation still in Progress --> Week:37 Day:0
+Starting Simulation --> Time:26 14:51:45
+Simulation still in Progress --> Week:37 Day:1
+Starting Simulation --> Time:26 14:51:51
+Simulation still in Progress --> Week:37 Day:2
+Starting Simulation --> Time:26 14:51:57
+Simulation still in Progress --> Week:37 Day:3
+Starting Simulation --> Time:26 14:52:03
+Simulation still in Progress --> Week:37 Day:4
+Starting Simulation --> Time:26 14:52:09
+Simulation still in Progress --> Week:37 Day:5
+Starting Simulation --> Time:26 14:52:13
+Simulation still in Progress --> Week:37 Day:6
+Starting Simulation --> Time:26 14:52:16
+Simulation still in Progress --> Week:38 Day:0
+Starting Simulation --> Time:26 14:52:22
+Simulation still in Progress --> Week:38 Day:1
+Starting Simulation --> Time:26 14:52:28
+Simulation still in Progress --> Week:38 Day:2
+Starting Simulation --> Time:26 14:52:34
+Simulation still in Progress --> Week:38 Day:3
+Starting Simulation --> Time:26 14:52:40
+Simulation still in Progress --> Week:38 Day:4
+Starting Simulation --> Time:26 14:52:46
+Simulation still in Progress --> Week:38 Day:5
+Starting Simulation --> Time:26 14:52:50
+Simulation still in Progress --> Week:38 Day:6
+Starting Simulation --> Time:26 14:52:53
+Simulation still in Progress --> Week:39 Day:0
+Starting Simulation --> Time:26 14:52:59
+Simulation still in Progress --> Week:39 Day:1
+Starting Simulation --> Time:26 14:53:05
+Simulation still in Progress --> Week:39 Day:2
+Starting Simulation --> Time:26 14:53:11
+Simulation still in Progress --> Week:39 Day:3
+Starting Simulation --> Time:26 14:53:17
+Simulation still in Progress --> Week:39 Day:4
+Starting Simulation --> Time:26 14:53:23
+Simulation still in Progress --> Week:39 Day:5
+Starting Simulation --> Time:26 14:53:27
+Simulation still in Progress --> Week:39 Day:6
+Starting Simulation --> Time:26 14:53:30
+Simulation still in Progress --> Week:40 Day:0
+Starting Simulation --> Time:26 14:53:36
+Simulation still in Progress --> Week:40 Day:1
+Starting Simulation --> Time:26 14:53:42
+Simulation still in Progress --> Week:40 Day:2
+Starting Simulation --> Time:26 14:53:48
+Simulation still in Progress --> Week:40 Day:3
+Starting Simulation --> Time:26 14:53:54
+Simulation still in Progress --> Week:40 Day:4
+Starting Simulation --> Time:26 14:54:00
+Simulation still in Progress --> Week:40 Day:5
+Starting Simulation --> Time:26 14:54:04
+Simulation still in Progress --> Week:40 Day:6
+Starting Simulation --> Time:26 14:54:07
+Simulation still in Progress --> Week:41 Day:0
+Starting Simulation --> Time:26 14:54:13
+Simulation still in Progress --> Week:41 Day:1
+Starting Simulation --> Time:26 14:54:19
+Simulation still in Progress --> Week:41 Day:2
+Starting Simulation --> Time:26 14:54:25
+Simulation still in Progress --> Week:41 Day:3
+Starting Simulation --> Time:26 14:54:31
+Simulation still in Progress --> Week:41 Day:4
+Starting Simulation --> Time:26 14:54:37
+Simulation still in Progress --> Week:41 Day:5
+Starting Simulation --> Time:26 14:54:41
+Simulation still in Progress --> Week:41 Day:6
+Starting Simulation --> Time:26 14:54:44
+Simulation still in Progress --> Week:42 Day:0
+Starting Simulation --> Time:26 14:54:50
+Simulation still in Progress --> Week:42 Day:1
+Starting Simulation --> Time:26 14:54:56
+Simulation still in Progress --> Week:42 Day:2
+Starting Simulation --> Time:26 14:55:02
+Simulation still in Progress --> Week:42 Day:3
+Starting Simulation --> Time:26 14:55:08
+Simulation still in Progress --> Week:42 Day:4
+Starting Simulation --> Time:26 14:55:14
+Simulation still in Progress --> Week:42 Day:5
+Starting Simulation --> Time:26 14:55:18
+Simulation still in Progress --> Week:42 Day:6
+Starting Simulation --> Time:26 14:55:21
+Simulation still in Progress --> Week:43 Day:0
+Starting Simulation --> Time:26 14:55:27
+Simulation still in Progress --> Week:43 Day:1
+Starting Simulation --> Time:26 14:55:33
+Simulation still in Progress --> Week:43 Day:2
+Starting Simulation --> Time:26 14:55:39
+Simulation still in Progress --> Week:43 Day:3
+Starting Simulation --> Time:26 14:55:45
+Simulation still in Progress --> Week:43 Day:4
+Starting Simulation --> Time:26 14:55:51
+Simulation still in Progress --> Week:43 Day:5
+Starting Simulation --> Time:26 14:55:55
+Simulation still in Progress --> Week:43 Day:6
+Starting Simulation --> Time:26 14:55:57
+Simulation still in Progress --> Week:44 Day:0
+Starting Simulation --> Time:26 14:56:03
+Simulation still in Progress --> Week:44 Day:1
+Starting Simulation --> Time:26 14:56:09
+Simulation still in Progress --> Week:44 Day:2
+Starting Simulation --> Time:26 14:56:15
+Simulation still in Progress --> Week:44 Day:3
+Starting Simulation --> Time:26 14:56:21
+Simulation still in Progress --> Week:44 Day:4
+Starting Simulation --> Time:26 14:56:27
+Simulation still in Progress --> Week:44 Day:5
+Starting Simulation --> Time:26 14:56:31
+Simulation still in Progress --> Week:44 Day:6
+Starting Simulation --> Time:26 14:56:34
+Simulation still in Progress --> Week:45 Day:0
+Starting Simulation --> Time:26 14:56:40
+Simulation still in Progress --> Week:45 Day:1
+Starting Simulation --> Time:26 14:56:46
+Simulation still in Progress --> Week:45 Day:2
+Starting Simulation --> Time:26 14:56:52
+Simulation still in Progress --> Week:45 Day:3
+Starting Simulation --> Time:26 14:56:58
+Simulation still in Progress --> Week:45 Day:4
+Starting Simulation --> Time:26 14:57:04
+Simulation still in Progress --> Week:45 Day:5
+Starting Simulation --> Time:26 14:57:08
+Simulation still in Progress --> Week:45 Day:6
+Starting Simulation --> Time:26 14:57:11
+Simulation still in Progress --> Week:46 Day:0
+Starting Simulation --> Time:26 14:57:17
+Simulation still in Progress --> Week:46 Day:1
+Starting Simulation --> Time:26 14:57:23
+Simulation still in Progress --> Week:46 Day:2
+Starting Simulation --> Time:26 14:57:29
+Simulation still in Progress --> Week:46 Day:3
+Starting Simulation --> Time:26 14:57:35
+Simulation still in Progress --> Week:46 Day:4
+Starting Simulation --> Time:26 14:57:41
+Simulation still in Progress --> Week:46 Day:5
+Starting Simulation --> Time:26 14:57:44
+Simulation still in Progress --> Week:46 Day:6
+Starting Simulation --> Time:26 14:57:47
+Simulation still in Progress --> Week:47 Day:0
+Starting Simulation --> Time:26 14:57:53
+Simulation still in Progress --> Week:47 Day:1
+Starting Simulation --> Time:26 14:57:59
+Simulation still in Progress --> Week:47 Day:2
+Starting Simulation --> Time:26 14:58:05
+Simulation still in Progress --> Week:47 Day:3
+Starting Simulation --> Time:26 14:58:11
+Simulation still in Progress --> Week:47 Day:4
+Starting Simulation --> Time:26 14:58:17
+Simulation still in Progress --> Week:47 Day:5
+Starting Simulation --> Time:26 14:58:21
+Simulation still in Progress --> Week:47 Day:6
+Starting Simulation --> Time:26 14:58:24
+Simulation still in Progress --> Week:48 Day:0
+Starting Simulation --> Time:26 14:58:30
+Simulation still in Progress --> Week:48 Day:1
+Starting Simulation --> Time:26 14:58:36
+Simulation still in Progress --> Week:48 Day:2
+Starting Simulation --> Time:26 14:58:42
+Simulation still in Progress --> Week:48 Day:3
+Starting Simulation --> Time:26 14:58:48
+Simulation still in Progress --> Week:48 Day:4
+Starting Simulation --> Time:26 14:58:54
+Simulation still in Progress --> Week:48 Day:5
+Starting Simulation --> Time:26 14:58:58
+Simulation still in Progress --> Week:48 Day:6
+Starting Simulation --> Time:26 14:59:01
+Simulation still in Progress --> Week:49 Day:0
+Starting Simulation --> Time:26 14:59:07
+Simulation still in Progress --> Week:49 Day:1
+Starting Simulation --> Time:26 14:59:13
+Simulation still in Progress --> Week:49 Day:2
+Starting Simulation --> Time:26 14:59:19
+Simulation still in Progress --> Week:49 Day:3
+Starting Simulation --> Time:26 14:59:25
+Simulation still in Progress --> Week:49 Day:4
+Starting Simulation --> Time:26 14:59:31
+Simulation still in Progress --> Week:49 Day:5
+Starting Simulation --> Time:26 14:59:35
+Simulation still in Progress --> Week:49 Day:6
+Starting Simulation --> Time:26 14:59:38
+Simulation still in Progress --> Week:50 Day:0
+Starting Simulation --> Time:26 14:59:44
+Simulation still in Progress --> Week:50 Day:1
+Starting Simulation --> Time:26 14:59:50
+Simulation still in Progress --> Week:50 Day:2
+Starting Simulation --> Time:26 14:59:56
+Simulation still in Progress --> Week:50 Day:3
+Starting Simulation --> Time:26 15:00:02
+Simulation still in Progress --> Week:50 Day:4
+Starting Simulation --> Time:26 15:00:08
+Simulation still in Progress --> Week:50 Day:5
+Starting Simulation --> Time:26 15:00:12
+Simulation still in Progress --> Week:50 Day:6
+Starting Simulation --> Time:26 15:00:14
+Simulation still in Progress --> Week:51 Day:0
+Starting Simulation --> Time:26 15:00:21
+Simulation still in Progress --> Week:51 Day:1
+Starting Simulation --> Time:26 15:00:27
+Simulation still in Progress --> Week:51 Day:2
+Starting Simulation --> Time:26 15:00:33
+Simulation still in Progress --> Week:51 Day:3
+Starting Simulation --> Time:26 15:00:39
+Simulation still in Progress --> Week:51 Day:4
+Starting Simulation --> Time:26 15:00:45
+Simulation still in Progress --> Week:51 Day:5
+Starting Simulation --> Time:26 15:00:49
+Simulation still in Progress --> Week:51 Day:6
+Ending Simulation --> Time:26 15:00:52
+Experiment Complete! 

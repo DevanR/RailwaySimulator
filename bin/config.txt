@@ -1,0 +1,12 @@
+Weeks = 52
+Days = 7 
+Hours = 18
+Handover = 60 
+Passenger_Distribution = 1 #1-uniform
+Passenger_Mean = 64 #1-uniform
+Stations = 27
+Trains_per_hour = 7
+Passengers_per_weekday = 218136
+Passengers_per_saturday = 136702
+Passengers_per_sunday = 104876
+Passenger_movement_ratio = 0 
